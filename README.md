@@ -7,3 +7,4 @@ MoTransfer es una billetera digital diseñada para facilitar la transferencia de
 ## Diagrama lógico
 
 Este es un diagrama logico que representa las dos principales entidades de la aplicación: Usuarios y Transacciones. Este diagrama lógico muestra cómo se relacionan estas dos entidades entre sí: Un usuario puede tener una cuenta, la cuenta puede tener múltiples transacciones y cada transacción involucra a dos usuarios diferentes.
+
